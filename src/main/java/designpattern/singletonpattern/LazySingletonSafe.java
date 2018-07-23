@@ -7,7 +7,7 @@ package designpattern.singletonpattern;
  * @reviewer
  */
 public class LazySingletonSafe {
-	private static LazySingletonSafe lazySingletonSafe;
+	private volatile static LazySingletonSafe lazySingletonSafe;
 
 	private LazySingletonSafe(){
 
