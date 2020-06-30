@@ -23,7 +23,7 @@
     <properties>
 
         <fastjson.version>1.2.37</fastjson.version>
-        <jackson.version>2.8.8</jackson.version>
+        <jackson.version>2.9.10.5</jackson.version>
         <google.guava.version>18.0</google.guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <mysql.version>6.0.6</mysql.version>
